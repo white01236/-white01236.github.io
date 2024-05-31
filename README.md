@@ -17,4 +17,4 @@
 >>idl  
 >>数据结构  
 
-![png](2024-03-10 180324.png)
+![png](https://white01236.github.io/-white01236.github.io/2024-03-10 180324.png)
