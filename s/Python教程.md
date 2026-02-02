@@ -29,8 +29,13 @@ print(c)
 
  1.4 运算符
 
-```pythona = 1b = 2c = a + bprint(c)``` 
+```python
+a = 1
+b = 2
+c = a +b
+print(c)``` 
 
  1.5 函数
+
 
 ```pythona = 1b = 2c = a + bprint(c)```
